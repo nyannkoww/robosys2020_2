@@ -8,7 +8,7 @@
 - URL − ~~
 ## 使用するもの
 - Raspberry Pi 4 Model B
-  - Ubuntu 20.04
+  - Ubuntu 20.04 LTS
 ## 使い方
 1. `catkin_ws/src/mypkg`下でリポジトリをクローンしてローカルリポジトリの作成
 
