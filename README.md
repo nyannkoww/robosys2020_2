@@ -13,7 +13,7 @@
 1. `catkin_ws/src/mypkg`下でリポジトリをクローンしてローカルリポジトリの作成
 
    ```
-   $ git clone ~~
+   $ git clone https://github.com/nyannkoww/robosys2020_2.git
    ```
 2. 以下を入力
    ```
