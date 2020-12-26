@@ -5,7 +5,7 @@
 サブスクライバを1個持つノードtwice.pyでパブリッシャからデータを受け取り、2倍にする。
 実行データを二つ並べながら見ることができる。
 ## 動画
-- URL − ~~
+- URL − https://youtu.be/B7BKkWuIgis
 ## 使用するもの
 - Raspberry Pi 4 Model B
   - Ubuntu 20.04 LTS
